@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>silva.oliveira.samuel</groupId>
-	<artifactId>parallelfinance</artifactId>
+	<artifactId>parallelfinancesinglethread</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ParallelFinanceSingleThread</name>
 	<description>Financial calculator running with single thread</description>
